@@ -1,0 +1,10 @@
+[
+    {"domain": ".youtube.com", "name": "__Secure-1PSID", "value": "g.a000qQiOItklm1wqyroFYjIaVOOZySFl2xGKNWIYECIupHmiNy8k2uDalD4z-8Cf-y3YmCaJDAACgYKAUsSARMSFQHGX2Mia20GjuWTglws13_Eh4TKqRoVAUF8yKpoD0pkn5Gnt2rtItow4tJ20076"},
+    {"domain": ".youtube.com", "name": "__Secure-3PSID", "value": "g.a000qQiOItklm1wqyroFYjIaVOOZySFl2xGKNWIYECIupHmiNy8kskfnbisilifz0TS7w8sWjgACgYKAfQSARMSFQHGX2MiDJYY4-nJZZQbXsEb4KlRbxoVAUF8yKqnchTNCgNfv92Twzf-nJw80076"},
+    {"domain": ".youtube.com", "name": "SID", "value": "g.a000qQiOItklm1wqyroFYjIaVOOZySFl2xGKNWIYECIupHmiNy8kBCx3SJykrgVV9jqQZl7etwACgYKAdESARMSFQHGX2Mi2nhgwQhHlrOqIOj1t3-LgRoVAUF8yKrPMbhJafkGzFUILdselNey0076"},
+    {"domain": ".youtube.com", "name": "HSID", "value": "AQuvjNU8of2foz-wK"},
+    {"domain": ".youtube.com", "name": "SAPISID", "value": "KalQe2H9T-9oMUmY/Am3m90kNnp86KQAwN"},
+    {"domain": ".youtube.com", "name": "APISID", "value": "p2YDVlO3xEVSC684/AebsLLup60MRcgvDQ"},
+    {"domain": ".youtube.com", "name": "LOGIN_INFO", "value": "AFmmF2swRQIgCB_lNBgNxu2sxhVpaQq-da_AkBEwjivoJbkt0OOx0rACIQDUQDPO7qn1kP4ibp3ctFo56mxhOcjx5Ghq-qyU9fkcyg:QUQ3MjNmdzRhVW0xRThJUGZRMjNMS2VNMUNsWU9udE1qUjYxdkRjZy1yUnU5SjhNQldtSVhvVlpOb29yZHo0N2xNdG5nWUJxcmZENWxROFdrZUN3bGhaRS1JbFJyZ2UtRXRDOEk5NXo1bDRybHBjcENkVmJRdGdPMFdFV3NJMVIwRzNVYXBnM2NpSkFIQm5keGd3bXhTeEpUdFhGLXBuRVlR"},
+    {"domain": ".youtube.com", "name": "PREF", "value": "tz=Europe.Kiev&f4=4000000"}
+]
